@@ -1,4 +1,4 @@
-package fp
+package part2fp
 
 object MapFlatmapFilter extends App {
   val numbers = List(1, 2, 3, 4)

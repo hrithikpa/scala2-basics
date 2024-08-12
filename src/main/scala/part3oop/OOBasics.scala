@@ -1,4 +1,4 @@
-package oop
+package part3oop
 
 object OOBasics extends App {
   private val author = new Writer("James", "Clear", 1964)

@@ -1,4 +1,4 @@
-package fp
+package part2fp
 
 object hof extends App {
   val plusOne = (x: Int) => x + 1

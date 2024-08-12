@@ -1,4 +1,4 @@
-package fp
+package part2fp
 
 object Intro extends App {
   // All Scala functions are objects

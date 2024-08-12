@@ -1,4 +1,4 @@
-package oop
+package part3oop
 
 object Inheritance extends App {
   // single class inheritance

@@ -1,4 +1,4 @@
-package fp
+package part2fp
 
 import scala.annotation.tailrec
 

@@ -1,4 +1,4 @@
-package oop
+package part3oop
 
 object CaseClasses extends App {
   // 1. Case classes are immutable data holding classes with little boilerplate like equals, hashCode, toString

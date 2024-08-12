@@ -1,4 +1,4 @@
-package oop
+package part3oop
 
 // Generics: Type parameters in [] brackets
 //abstract class MyList[+A] { // The [] brackets tells it is of type A, + is for covariance

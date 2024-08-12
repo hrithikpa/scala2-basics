@@ -1,4 +1,4 @@
-package oop
+package part3oop
 
 object objects extends App {
   // An object is a class that has exactly one instance.

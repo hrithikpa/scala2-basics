@@ -1,4 +1,4 @@
-package fp
+package part2fp
 
 object AnonymousFunctions extends App {
   val doubler = (x: Int) => x * 2
