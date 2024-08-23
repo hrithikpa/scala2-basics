@@ -9,7 +9,7 @@ object Options extends App {
 
   // Options were invented to deal with unsafe APIs
   def unSafeMethod(): String =  null
-//  val res = Some(unSafeMethod()) // Wrong: Some should always have
+//  val res = Some(unSafeMethod()) // Wrong: Some should always have a value
   val res = Option(unSafeMethod()) // Whole point of option is that we should never do a null check ourselves. the option will do for us
 
   def backupMethod(): String = "A valid result in this"

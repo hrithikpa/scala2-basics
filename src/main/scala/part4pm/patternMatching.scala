@@ -27,10 +27,10 @@ object patternMatching extends App {
 
   println(greeting)
 
-    /*
-      1. type of PM expression = unified type of all the types in all cases
-      2. PM works really well with case classes
-     */
+  /*
+    1. type of PM expression = unified type of all the types in all cases
+    2. PM works really well with case classes
+   */
 
   // Exercise
 
